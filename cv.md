@@ -28,3 +28,12 @@ if (count > 0) return count + " Bet";
   return count + " Hold";
 }
 ```
+## Experience as a ***Junior Dev*** :
+* RSSchool Stage #0
+
+## Education:
+1. Bachelor degree in Corporate Finance and Accounting, University of Economics in Kraków
+2. English Language Course, Study.ua
+---
+## English level:
+>C1 Advanced
